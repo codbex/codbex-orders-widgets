@@ -1,0 +1,5 @@
+{
+    "extensionPoint": "ide-subview",
+    "module": "codbex-orders-widgets/purchaseOrdersWidgets/UnpaidPurchaseOrders/unpaid-purchase-orders.js",
+    "description": "Avarage Purchase Order Price"
+}
