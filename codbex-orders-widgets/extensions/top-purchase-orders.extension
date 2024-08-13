@@ -1,5 +1,5 @@
 {
     "extensionPoint": "ide-subview",
-    "module": "codbex-orders-widgets/purchaseOrdersWidgets/TopPurchaseOrders/top-purchase-orders.js",
+    "module": "codbex-orders-widgets/services/top-purchase-orders.js",
     "description": "Top Purchase Orders"
 }

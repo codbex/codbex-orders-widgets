@@ -1,7 +1,7 @@
 const viewData = {
     id: 'new-sales-orders',
     label: 'New Sales Orders',
-    link: '/services/web/codbex-orders-widgets/salesOrdersWidgets/NewSalesOrders/new-sales-orders.html',
+    link: '/services/web/codbex-orders-widgets/subviews/new-sales-orders.html',
     lazyLoad: true
 };
 

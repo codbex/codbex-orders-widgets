@@ -1,7 +1,7 @@
 const viewData = {
-    id: 'top-purchase-orders',
-    label: 'Top Purchase Orders',
-    link: '/services/web/codbex-orders-widgets/subviews/top-purchase-orders.html',
+    id: 'top-customer',
+    label: 'Top Customer',
+    link: '/services/web/codbex-orders-widgets/subviews/top-customer.html',
     lazyLoad: true
 };
 

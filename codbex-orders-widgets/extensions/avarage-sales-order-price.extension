@@ -1,5 +1,5 @@
 {
     "extensionPoint": "ide-subview",
-    "module": "codbex-orders-widgets/salesOrdersWidgets/AvarageSalesOrderPrice/avarage-sales-order-price.js",
+    "module": "codbex-orders-widgets/services/avarage-sales-order-price.js",
     "description": "Avarage Sales Order Price"
 }
