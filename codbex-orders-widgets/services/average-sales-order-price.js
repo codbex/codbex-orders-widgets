@@ -2,7 +2,8 @@ const widgetData = {
     id: 'average-sales-order-price',
     label: 'Average Sales Order Price',
     link: '/services/web/codbex-orders-widgets/subviews/average-sales-order-price.html',
-    lazyLoad: true
+    lazyLoad: true,
+    order: 7
 };
 
 if (typeof exports !== 'undefined') {

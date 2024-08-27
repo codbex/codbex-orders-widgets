@@ -2,7 +2,8 @@ const widgetData = {
     id: 'unpaid-purchase-orders',
     label: 'Unpaid Purchase Orders',
     link: '/services/web/codbex-orders-widgets/subviews/unpaid-purchase-orders.html',
-    lazyLoad: true
+    lazyLoad: true,
+    order: 12
 };
 
 if (typeof exports !== 'undefined') {

@@ -2,7 +2,8 @@ const widgetData = {
     id: 'top-customer',
     label: 'Top Customer',
     link: '/services/web/codbex-orders-widgets/subviews/top-customer.html',
-    lazyLoad: true
+    lazyLoad: true,
+    order: 9
 };
 
 if (typeof exports !== 'undefined') {
