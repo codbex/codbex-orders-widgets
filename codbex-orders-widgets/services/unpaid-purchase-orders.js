@@ -1,4 +1,4 @@
-const viewData = {
+const widgetData = {
     id: 'unpaid-purchase-orders',
     label: 'Unpaid Purchase Orders',
     link: '/services/web/codbex-orders-widgets/subviews/unpaid-purchase-orders.html',
@@ -6,7 +6,7 @@ const viewData = {
 };
 
 if (typeof exports !== 'undefined') {
-    exports.getView = function () {
-        return viewData;
+    exports.getWidget = function () {
+        return widgetData;
     }
 }

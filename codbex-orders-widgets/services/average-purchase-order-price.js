@@ -1,4 +1,4 @@
-const viewData = {
+const widgetData = {
     id: 'average-purchase-order-price',
     label: 'Average Purchase Order Price',
     link: '/services/web/codbex-orders-widgets/subviews/average-purchase-order-price.html',
@@ -6,7 +6,7 @@ const viewData = {
 };
 
 if (typeof exports !== 'undefined') {
-    exports.getView = function () {
-        return viewData;
+    exports.getWidget = function () {
+        return widgetData;
     }
 }
