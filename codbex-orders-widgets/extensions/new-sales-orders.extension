@@ -1,5 +1,5 @@
 {
-    "extensionPoint": "portal-widgets",
+    "extensionPoint": "dashboard-widgets",
     "module": "codbex-orders-widgets/services/new-sales-orders.js",
     "description": "New Sales Orders"
 }

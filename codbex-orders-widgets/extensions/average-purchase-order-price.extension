@@ -1,5 +1,5 @@
 {
-    "extensionPoint": "portal-widgets",
+    "extensionPoint": "dashboard-widgets",
     "module": "codbex-orders-widgets/services/average-purchase-order-price.js",
     "description": "Average Purchase Order Price"
 }
