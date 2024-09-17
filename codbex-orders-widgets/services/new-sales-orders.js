@@ -3,7 +3,7 @@ const widgetData = {
     label: 'New Sales Orders',
     link: '/services/web/codbex-orders-widgets/subviews/new-sales-orders.html',
     lazyLoad: true,
-    cssSize: "fd-col fd-col--12 fd-col-md--6 fd-col-lg--6 fd-col-xl--6"
+    size: "medium"
 };
 
 export function getWidget() {
